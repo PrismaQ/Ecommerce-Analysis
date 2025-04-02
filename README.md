@@ -5,10 +5,10 @@ An interactive Power BI dashboard to track and analyze online sales data. Featur
 ## Installation
 1. Install Power BI Desktop (free from Microsoft).
 2. Clone this repo: `git clone https://github.com/yourusername/sales-dashboard.git`.
-3. Open `SalesDashboard.pbix` in Power BI.
+3. Open 'Ecommerece Sales Dashboard.pbit' in Power BI.
 
 ## Usage
-Open `SalesDashboard.pbix` in Power BI Desktop, Interact, or make changes as you like.
+Open 'Ecommerece Sales Dashboard.pbit' in Power BI Desktop, Interact, or make changes as you like.
 
 ## Features
 - Interactive bar, pie, and map visualizations.
@@ -16,7 +16,7 @@ Open `SalesDashboard.pbix` in Power BI Desktop, Interact, or make changes as you
 - Drill-down options for detailed analysis.
 
 ## Data Sources
-Uses sample data in `sales_data.xlsx`. Update the source in Power BI with your own Excel or SQL data.
+Uses sample data in 'Orders.csv' and 'Details.csv'.  Update the source in Power BI with your own Excel or SQL data.
 
 ## License
-Licensed under the MIT License. See `LICENSE` for details.
+Licensed under the MIT License. See 'LICENSE' for details.
