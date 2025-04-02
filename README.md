@@ -17,7 +17,10 @@ Open 'Ecommerece Sales Dashboard.pbit' in Power BI Desktop, Interact, or make ch
 - Drill-down options for detailed analysis.
 
 ## Data Sources
-Uses sample data in 'Orders.csv' and 'Details.csv'.  Update the source in Power BI with your own Excel or SQL data.
+Sample data 'Orders.csv' and 'Details.csv'.  Update the source in Power BI with your own Excel or SQL data. It is a sample source anyways
+
+## Orders.csv information
+Contains 5 columns and 501 rows. Columns contain orderID, OrderDate, CustomerName, State, City. 
 
 ## License
 Licensed under the MIT License. See 'LICENSE' for details.
