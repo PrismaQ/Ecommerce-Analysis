@@ -1,6 +1,6 @@
 # E-commerce Sales Dashboard
 
-![image alt][https://github.com/PrismaQ/Ecommerce-Analysis/blob/main/Screenshot.png?raw=true]
+![image alt](https://github.com/PrismaQ/Ecommerce-Analysis/blob/main/Screenshot.png?raw=true)
 
 ## Introduction
 An interactive Power BI dashboard designed to track and analyze online sales data. It features custom visualizations and filters to explore trends and insights.
