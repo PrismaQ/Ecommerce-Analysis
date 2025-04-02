@@ -1,5 +1,6 @@
 # Sales Dashboard Analysis
-
+## Screenshots
+![Dashboard](Screenshot.png)
 An interactive Power BI dashboard to track and analyze online sales data. Features custom visualizations and filters to explore trends and insights.
 
 ## Installation
